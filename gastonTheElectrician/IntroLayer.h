@@ -8,8 +8,21 @@
 
 #import <Foundation/Foundation.h>
 #import "cocos2d.h"
+#import "NJPgeScrollLayer.h"
+#import "NJHowToPlayScroll.h"
+#import <MessageUI/MessageUI.h>
+#import <Accounts/Accounts.h>
+#import <Social/Social.h>
+#import <Twitter/Twitter.h>
+#import <GameKit/GameKit.h>
+#import <Parse/Parse.h>
+#import "SimpleAudioEngine.h"
+#import "CocosDenshion.h"
+#import "NJLevelCreator.h"
+#import "NJLevelReader.h"
+#import <RevMobAds/RevMobAds.h>
 
-@interface IntroLayer : CCLayer {
+@interface IntroLayer : CCLayer <MFMailComposeViewControllerDelegate, GKAchievementViewControllerDelegate, RevMobAdsDelegate >{
     
 }
 

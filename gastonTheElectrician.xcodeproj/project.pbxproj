@@ -241,6 +241,11 @@
 		14E20E1D1707C09700B86177 /* StoreKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 14E20E0A1707C09700B86177 /* StoreKit.framework */; };
 		14E20E1E1707C09700B86177 /* SystemConfiguration.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 14E20E0B1707C09700B86177 /* SystemConfiguration.framework */; };
 		14E20E211707C1F700B86177 /* IntroLayer.m in Sources */ = {isa = PBXBuildFile; fileRef = 14E20E201707C1F700B86177 /* IntroLayer.m */; };
+		14E20E2C1707C52400B86177 /* CCTool.m in Sources */ = {isa = PBXBuildFile; fileRef = 14E20E231707C52300B86177 /* CCTool.m */; };
+		14E20E2D1707C52400B86177 /* NJPgeScrollLayer.m in Sources */ = {isa = PBXBuildFile; fileRef = 14E20E251707C52400B86177 /* NJPgeScrollLayer.m */; };
+		14E20E2E1707C52400B86177 /* NJHowToPlayScroll.m in Sources */ = {isa = PBXBuildFile; fileRef = 14E20E271707C52400B86177 /* NJHowToPlayScroll.m */; };
+		14E20E2F1707C52400B86177 /* NJLevelPages.m in Sources */ = {isa = PBXBuildFile; fileRef = 14E20E291707C52400B86177 /* NJLevelPages.m */; };
+		14E20E301707C52400B86177 /* NJSettings.m in Sources */ = {isa = PBXBuildFile; fileRef = 14E20E2B1707C52400B86177 /* NJSettings.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -615,6 +620,16 @@
 		14E20E0C1707C09700B86177 /* TestFlight.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TestFlight.h; sourceTree = "<group>"; };
 		14E20E1F1707C1F700B86177 /* IntroLayer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = IntroLayer.h; sourceTree = "<group>"; };
 		14E20E201707C1F700B86177 /* IntroLayer.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = IntroLayer.m; sourceTree = "<group>"; };
+		14E20E221707C52300B86177 /* CCTool.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CCTool.h; sourceTree = "<group>"; };
+		14E20E231707C52300B86177 /* CCTool.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CCTool.m; sourceTree = "<group>"; };
+		14E20E241707C52300B86177 /* NJPgeScrollLayer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NJPgeScrollLayer.h; sourceTree = "<group>"; };
+		14E20E251707C52400B86177 /* NJPgeScrollLayer.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NJPgeScrollLayer.m; sourceTree = "<group>"; };
+		14E20E261707C52400B86177 /* NJHowToPlayScroll.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NJHowToPlayScroll.h; sourceTree = "<group>"; };
+		14E20E271707C52400B86177 /* NJHowToPlayScroll.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NJHowToPlayScroll.m; sourceTree = "<group>"; };
+		14E20E281707C52400B86177 /* NJLevelPages.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NJLevelPages.h; sourceTree = "<group>"; };
+		14E20E291707C52400B86177 /* NJLevelPages.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NJLevelPages.m; sourceTree = "<group>"; };
+		14E20E2A1707C52400B86177 /* NJSettings.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NJSettings.h; sourceTree = "<group>"; };
+		14E20E2B1707C52400B86177 /* NJSettings.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NJSettings.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -710,6 +725,7 @@
 		14E20B9D1707BCB900B86177 /* gastonTheElectrician */ = {
 			isa = PBXGroup;
 			children = (
+				14E20E311707C52C00B86177 /* NJClasses */,
 				14E20D151707BCBB00B86177 /* AppDelegate.h */,
 				14E20D161707BCBB00B86177 /* AppDelegate.m */,
 				14E20E1F1707C1F700B86177 /* IntroLayer.h */,
@@ -1213,6 +1229,23 @@
 			name = LevelsIcons;
 			sourceTree = "<group>";
 		};
+		14E20E311707C52C00B86177 /* NJClasses */ = {
+			isa = PBXGroup;
+			children = (
+				14E20E221707C52300B86177 /* CCTool.h */,
+				14E20E231707C52300B86177 /* CCTool.m */,
+				14E20E241707C52300B86177 /* NJPgeScrollLayer.h */,
+				14E20E251707C52400B86177 /* NJPgeScrollLayer.m */,
+				14E20E261707C52400B86177 /* NJHowToPlayScroll.h */,
+				14E20E271707C52400B86177 /* NJHowToPlayScroll.m */,
+				14E20E281707C52400B86177 /* NJLevelPages.h */,
+				14E20E291707C52400B86177 /* NJLevelPages.m */,
+				14E20E2A1707C52400B86177 /* NJSettings.h */,
+				14E20E2B1707C52400B86177 /* NJSettings.m */,
+			);
+			name = NJClasses;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -1483,6 +1516,11 @@
 				14E20D141707BCBB00B86177 /* main.m in Sources */,
 				14E20D171707BCBB00B86177 /* AppDelegate.m in Sources */,
 				14E20E211707C1F700B86177 /* IntroLayer.m in Sources */,
+				14E20E2C1707C52400B86177 /* CCTool.m in Sources */,
+				14E20E2D1707C52400B86177 /* NJPgeScrollLayer.m in Sources */,
+				14E20E2E1707C52400B86177 /* NJHowToPlayScroll.m in Sources */,
+				14E20E2F1707C52400B86177 /* NJLevelPages.m in Sources */,
+				14E20E301707C52400B86177 /* NJSettings.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
