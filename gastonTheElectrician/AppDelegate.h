@@ -7,6 +7,8 @@
 //
 
 #import <UIKit/UIKit.h>
+#import "NJSettings.h"
+#import <FacebookSDK/FacebookSDK.h>
 #import "cocos2d.h"
 
 @interface AppController : NSObject <UIApplicationDelegate, CCDirectorDelegate>
