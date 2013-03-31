@@ -246,6 +246,17 @@
 		14E20E2E1707C52400B86177 /* NJHowToPlayScroll.m in Sources */ = {isa = PBXBuildFile; fileRef = 14E20E271707C52400B86177 /* NJHowToPlayScroll.m */; };
 		14E20E2F1707C52400B86177 /* NJLevelPages.m in Sources */ = {isa = PBXBuildFile; fileRef = 14E20E291707C52400B86177 /* NJLevelPages.m */; };
 		14E20E301707C52400B86177 /* NJSettings.m in Sources */ = {isa = PBXBuildFile; fileRef = 14E20E2B1707C52400B86177 /* NJSettings.m */; };
+		14E20E391707C62D00B86177 /* PRFilledPolygon.m in Sources */ = {isa = PBXBuildFile; fileRef = 14E20E331707C62C00B86177 /* PRFilledPolygon.m */; };
+		14E20E3A1707C62D00B86177 /* PRRatcliffTriangulator.mm in Sources */ = {isa = PBXBuildFile; fileRef = 14E20E351707C62C00B86177 /* PRRatcliffTriangulator.mm */; };
+		14E20E3B1707C62D00B86177 /* triangulate.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 14E20E371707C62D00B86177 /* triangulate.cpp */; };
+		14E20E401707C65300B86177 /* helveticabold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 14E20E3D1707C65300B86177 /* helveticabold.ttf */; };
+		14E20E411707C65300B86177 /* lullaby.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 14E20E3E1707C65300B86177 /* lullaby.mp3 */; };
+		14E20E421707C65300B86177 /* tapOnButton.wav in Resources */ = {isa = PBXBuildFile; fileRef = 14E20E3F1707C65300B86177 /* tapOnButton.wav */; };
+		14E20E451707C69200B86177 /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = 14E20E471707C69200B86177 /* Localizable.strings */; };
+		14E20E4B1707C6E100B86177 /* Levels.plist in Resources */ = {isa = PBXBuildFile; fileRef = 14E20E4A1707C6E100B86177 /* Levels.plist */; };
+		14E20E531707C6F600B86177 /* NJPoint.m in Sources */ = {isa = PBXBuildFile; fileRef = 14E20E4E1707C6F500B86177 /* NJPoint.m */; };
+		14E20E541707C6F600B86177 /* NJPolygon.m in Sources */ = {isa = PBXBuildFile; fileRef = 14E20E501707C6F600B86177 /* NJPolygon.m */; };
+		14E20E551707C6F600B86177 /* NJSegment.m in Sources */ = {isa = PBXBuildFile; fileRef = 14E20E521707C6F600B86177 /* NJSegment.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -630,6 +641,27 @@
 		14E20E291707C52400B86177 /* NJLevelPages.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NJLevelPages.m; sourceTree = "<group>"; };
 		14E20E2A1707C52400B86177 /* NJSettings.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NJSettings.h; sourceTree = "<group>"; };
 		14E20E2B1707C52400B86177 /* NJSettings.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NJSettings.m; sourceTree = "<group>"; };
+		14E20E321707C62C00B86177 /* PRFilledPolygon.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PRFilledPolygon.h; sourceTree = "<group>"; };
+		14E20E331707C62C00B86177 /* PRFilledPolygon.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PRFilledPolygon.m; sourceTree = "<group>"; };
+		14E20E341707C62C00B86177 /* PRRatcliffTriangulator.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PRRatcliffTriangulator.h; sourceTree = "<group>"; };
+		14E20E351707C62C00B86177 /* PRRatcliffTriangulator.mm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.objcpp; path = PRRatcliffTriangulator.mm; sourceTree = "<group>"; };
+		14E20E361707C62D00B86177 /* PRTriangulator.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PRTriangulator.h; sourceTree = "<group>"; };
+		14E20E371707C62D00B86177 /* triangulate.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = triangulate.cpp; sourceTree = "<group>"; };
+		14E20E381707C62D00B86177 /* triangulate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = triangulate.h; sourceTree = "<group>"; };
+		14E20E3D1707C65300B86177 /* helveticabold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = helveticabold.ttf; sourceTree = "<group>"; };
+		14E20E3E1707C65300B86177 /* lullaby.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = lullaby.mp3; sourceTree = "<group>"; };
+		14E20E3F1707C65300B86177 /* tapOnButton.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = tapOnButton.wav; sourceTree = "<group>"; };
+		14E20E461707C69200B86177 /* en */ = {isa = PBXFileReference; lastKnownFileType = file; name = en; path = en.lproj/Localizable.strings; sourceTree = "<group>"; };
+		14E20E481707C69E00B86177 /* es */ = {isa = PBXFileReference; lastKnownFileType = file; name = es; path = es.lproj/Localizable.strings; sourceTree = "<group>"; };
+		14E20E491707C6AC00B86177 /* fr */ = {isa = PBXFileReference; lastKnownFileType = file; name = fr; path = fr.lproj/Localizable.strings; sourceTree = "<group>"; };
+		14E20E4A1707C6E100B86177 /* Levels.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Levels.plist; sourceTree = "<group>"; };
+		14E20E4C1707C6F500B86177 /* NJPolvisi.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NJPolvisi.h; sourceTree = "<group>"; };
+		14E20E4D1707C6F500B86177 /* NJPoint.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NJPoint.h; sourceTree = "<group>"; };
+		14E20E4E1707C6F500B86177 /* NJPoint.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NJPoint.m; sourceTree = "<group>"; };
+		14E20E4F1707C6F500B86177 /* NJPolygon.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NJPolygon.h; sourceTree = "<group>"; };
+		14E20E501707C6F600B86177 /* NJPolygon.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NJPolygon.m; sourceTree = "<group>"; };
+		14E20E511707C6F600B86177 /* NJSegment.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NJSegment.h; sourceTree = "<group>"; };
+		14E20E521707C6F600B86177 /* NJSegment.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NJSegment.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -725,6 +757,13 @@
 		14E20B9D1707BCB900B86177 /* gastonTheElectrician */ = {
 			isa = PBXGroup;
 			children = (
+				14E20E561707C6FC00B86177 /* NJPolvisi */,
+				14E20E4A1707C6E100B86177 /* Levels.plist */,
+				14E20E471707C69200B86177 /* Localizable.strings */,
+				14E20E3D1707C65300B86177 /* helveticabold.ttf */,
+				14E20E3E1707C65300B86177 /* lullaby.mp3 */,
+				14E20E3F1707C65300B86177 /* tapOnButton.wav */,
+				14E20E3C1707C63400B86177 /* PRFilledPolygon */,
 				14E20E311707C52C00B86177 /* NJClasses */,
 				14E20D151707BCBB00B86177 /* AppDelegate.h */,
 				14E20D161707BCBB00B86177 /* AppDelegate.m */,
@@ -1246,6 +1285,34 @@
 			name = NJClasses;
 			sourceTree = "<group>";
 		};
+		14E20E3C1707C63400B86177 /* PRFilledPolygon */ = {
+			isa = PBXGroup;
+			children = (
+				14E20E321707C62C00B86177 /* PRFilledPolygon.h */,
+				14E20E331707C62C00B86177 /* PRFilledPolygon.m */,
+				14E20E341707C62C00B86177 /* PRRatcliffTriangulator.h */,
+				14E20E351707C62C00B86177 /* PRRatcliffTriangulator.mm */,
+				14E20E361707C62D00B86177 /* PRTriangulator.h */,
+				14E20E371707C62D00B86177 /* triangulate.cpp */,
+				14E20E381707C62D00B86177 /* triangulate.h */,
+			);
+			name = PRFilledPolygon;
+			sourceTree = "<group>";
+		};
+		14E20E561707C6FC00B86177 /* NJPolvisi */ = {
+			isa = PBXGroup;
+			children = (
+				14E20E4C1707C6F500B86177 /* NJPolvisi.h */,
+				14E20E4D1707C6F500B86177 /* NJPoint.h */,
+				14E20E4E1707C6F500B86177 /* NJPoint.m */,
+				14E20E4F1707C6F500B86177 /* NJPolygon.h */,
+				14E20E501707C6F600B86177 /* NJPolygon.m */,
+				14E20E511707C6F600B86177 /* NJSegment.h */,
+				14E20E521707C6F600B86177 /* NJSegment.m */,
+			);
+			name = NJPolvisi;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -1280,6 +1347,8 @@
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
+				es,
+				fr,
 			);
 			mainGroup = 14E20B7F1707BCB900B86177;
 			productRefGroup = 14E20B891707BCB900B86177 /* Products */;
@@ -1403,6 +1472,11 @@
 				14E20E121707C09700B86177 /* FacebookSDKResources.bundle in Resources */,
 				14E20E151707C09700B86177 /* libz.1.1.3.dylib in Resources */,
 				14E20E161707C09700B86177 /* libz.dylib in Resources */,
+				14E20E401707C65300B86177 /* helveticabold.ttf in Resources */,
+				14E20E411707C65300B86177 /* lullaby.mp3 in Resources */,
+				14E20E421707C65300B86177 /* tapOnButton.wav in Resources */,
+				14E20E451707C69200B86177 /* Localizable.strings in Resources */,
+				14E20E4B1707C6E100B86177 /* Levels.plist in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -1521,10 +1595,29 @@
 				14E20E2E1707C52400B86177 /* NJHowToPlayScroll.m in Sources */,
 				14E20E2F1707C52400B86177 /* NJLevelPages.m in Sources */,
 				14E20E301707C52400B86177 /* NJSettings.m in Sources */,
+				14E20E391707C62D00B86177 /* PRFilledPolygon.m in Sources */,
+				14E20E3A1707C62D00B86177 /* PRRatcliffTriangulator.mm in Sources */,
+				14E20E3B1707C62D00B86177 /* triangulate.cpp in Sources */,
+				14E20E531707C6F600B86177 /* NJPoint.m in Sources */,
+				14E20E541707C6F600B86177 /* NJPolygon.m in Sources */,
+				14E20E551707C6F600B86177 /* NJSegment.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		14E20E471707C69200B86177 /* Localizable.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				14E20E461707C69200B86177 /* en */,
+				14E20E481707C69E00B86177 /* es */,
+				14E20E491707C6AC00B86177 /* fr */,
+			);
+			name = Localizable.strings;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
 		14E20D1E1707BCBB00B86177 /* Debug */ = {

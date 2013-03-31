@@ -1,0 +1,72 @@
+/* 
+  Localizable.strings
+  GastonK2D
+
+  Created by Juan Jacobo Montero Muñoz on 23/02/13.
+
+*/
+//INTRO
+"GASTONTHEELECTRICIAN" = "Gaston - the Electrician";
+"BGWITHLOGOANDCHAR" = "backgroundWithLogoAndCharacter.png";
+"PLAYBUTTON" = "playButton.png";
+"SHAREBUTTON" = "shareButton.png";
+"ABOUTBUTTON" = "aboutButton.png";
+"SETTINGSBUTTON" = "settingsButton.png";
+"HTPLAYBUTTON" = "howToPlayButton.png";
+"GAMECENTERBUTTON" = "gameCenterButton.png";
+"SFXOFFBUTTON" = "SFXOFFButton.png";
+"SFXBUTTON" = "SFXButton.png";
+"MUSICOFFBUTTON" = "musicOFFButton.png";
+"MUSICBUTTON" = "musicButton.png";
+"LIKEBUTTON" = "likeButton.png";
+"WEIBOBUTTON" = "weiboButton.png";
+"TWITTERBUTTON" = "twitterButton.png";
+"MAILBUTTON" = "mailButton.png";
+"EMAILMESSAGE" = "MESSAGEEEEE";
+"TAPADERA" = "tapadera.png";
+"FACEBOOKMESSAGE" = "Gaston - The Electrician. \n Download it from the App Store and GooglePlay";
+"SINAWEIBOMESSAGE" = "Gaston - The Electrician. \n Download it from the App Store and GooglePlay";
+"TWITTERMESSAGE" = "Gaston - The Electrician. The most addictive game I've tried! Download it from the App Store and GooglePlay";
+"RATEALERTTITLE" = "Rate this app!";
+"RATEALERTMESSAGE" = "Would you consider to rate this app to help us?";
+"YES" = "Yes!";
+"NO" = "Not now";
+//CHOOSEMODE
+"BGLEVELS" = "backgroundLevels.png";
+"MAINMENUBUTTON" = "mainMenuButton.png";
+"CAREERMODEBUTTON" = "careerModeButton.png";
+"INSANEMODEBUTTON" = "insaneModeButton.png";
+"DARKNESSMODEBUTTON" = "darknessModeButton.png";
+//CHOOSELEVEL
+"CHOOSEMODEBUTTON" = "chooseModeButton.png";
+//GAMELAYER
+"BGGAMESCREEN" = "gameScreenBackground.png";
+"ACHIEVREPORT" = "Achievement reported!";
+"CONGRATULATIONSACHIEV" = "Congratulations! You finished %d levels.";
+//GAMEINTERFACE
+"UNLOCKALERTTITLE" = "Let's unlock!";
+"UNLOCKALERTMESSAGE" = "How many keys do you want to buy?";
+"UNLIMITED" = "Unlimited";
+"NONE" = "No thanks";
+"UNLOCKEDALERTTITLE" = "Unlocked";
+"UNLOCKEDALERTMESSAGE" = "You just unlocked level %d";
+"CONTINUE" = "Continue";
+"UNLOCKERRORALERTMESSAGE" = "Level %d is already unlocked";
+"SCORE" = "SCORE";
+"SUCCESSALERTVIEWTITLE" = "Success!";
+"SUCCESSALERTVIEWMESSAGE" = "You have bought some keys to unlock levels!";
+//PAUSEMENU
+"REMOVEADS" = "removeAds.png";
+"TEXT1" = "You have \nilluminated the";
+"TEXT2" = "of the room.\nCongratulations!"; 
+"TWITTERSHARETEXT" = "Gaston-theElectrician - %@";
+"SUBTITLELOSS" = "of the room.\n Try again!";
+"SHARELOSS" = "Try this new addictive game!!";
+"SUBTITLEWIN" = "of the room.\nCongratulations!";
+"SHARE999WIN" = "I have illuminated the %d%c of the dark room! Can you beat me?";
+"SHAREWIN" = "I have illuminated the %d%c of the %dth dark room! Can you beat me?";
+"SHAREPAUSE" = "Try this new addictive game!!";
+
+"ERROR" = "Error";
+"REACHSTORE" = "There was an error connecting to the AppStore";
+"OK" = "OK";

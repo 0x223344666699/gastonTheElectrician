@@ -1,0 +1,318 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completed</key>
+	<dict>
+		<key>1</key>
+		<false/>
+		<key>2</key>
+		<false/>
+		<key>3</key>
+		<false/>
+		<key>4</key>
+		<false/>
+		<key>5</key>
+		<false/>
+		<key>6</key>
+		<false/>
+		<key>7</key>
+		<false/>
+		<key>8</key>
+		<false/>
+		<key>9</key>
+		<false/>
+		<key>10</key>
+		<false/>
+		<key>11</key>
+		<false/>
+		<key>12</key>
+		<false/>
+		<key>13</key>
+		<false/>
+		<key>14</key>
+		<false/>
+		<key>15</key>
+		<false/>
+		<key>16</key>
+		<false/>
+		<key>17</key>
+		<false/>
+		<key>18</key>
+		<false/>
+		<key>19</key>
+		<false/>
+		<key>20</key>
+		<false/>
+		<key>21</key>
+		<false/>
+		<key>22</key>
+		<false/>
+		<key>23</key>
+		<false/>
+	</dict>
+	<key>level1</key>
+	<array>
+		<string>{66, 421}</string>
+		<string>{39, 403}</string>
+		<string>{61, 359}</string>
+		<string>{87, 369}</string>
+		<string>{133, 315}</string>
+		<string>{78, 271}</string>
+		<string>{77, 201}</string>
+		<string>{97, 154}</string>
+		<string>{149, 140}</string>
+		<string>{174, 162}</string>
+		<string>{229, 20}</string>
+		<string>{272, 136}</string>
+		<string>{300, 141}</string>
+		<string>{313, 165}</string>
+		<string>{297, 190}</string>
+		<string>{267, 205}</string>
+		<string>{238, 197}</string>
+		<string>{250, 164}</string>
+		<string>{223, 143}</string>
+		<string>{193, 178}</string>
+		<string>{209, 186}</string>
+		<string>{213, 233}</string>
+		<string>{270, 241}</string>
+		<string>{257, 408}</string>
+		<string>{226, 403}</string>
+		<string>{233, 262}</string>
+		<string>{204, 261}</string>
+		<string>{186, 286}</string>
+		<string>{107, 381}</string>
+		<string>{130, 398}</string>
+		<string>{101, 441}</string>
+		<integer>3</integer>
+	</array>
+	<key>level10001</key>
+	<array>
+		<string>{66, 421}</string>
+		<string>{39, 403}</string>
+		<string>{61, 359}</string>
+		<string>{87, 369}</string>
+		<string>{133, 315}</string>
+		<string>{78, 271}</string>
+		<string>{77, 201}</string>
+		<string>{97, 154}</string>
+		<string>{149, 140}</string>
+		<string>{174, 162}</string>
+		<string>{229, 20}</string>
+		<string>{272, 136}</string>
+		<string>{300, 141}</string>
+		<string>{313, 165}</string>
+		<string>{297, 190}</string>
+		<string>{267, 205}</string>
+		<string>{238, 197}</string>
+		<string>{250, 164}</string>
+		<string>{223, 143}</string>
+		<string>{193, 178}</string>
+		<string>{209, 186}</string>
+		<string>{213, 233}</string>
+		<string>{270, 241}</string>
+		<string>{257, 408}</string>
+		<string>{226, 403}</string>
+		<string>{233, 262}</string>
+		<string>{204, 261}</string>
+		<string>{186, 286}</string>
+		<string>{107, 381}</string>
+		<string>{130, 398}</string>
+		<string>{101, 441}</string>
+	</array>
+	<key>level1000</key>
+	<array>
+		<string>{160, 400}</string>
+		<string>{70, 321}</string>
+		<string>{71, 201}</string>
+		<string>{161, 250}</string>
+		<string>{251, 200}</string>
+		<string>{250, 320}</string>
+	</array>
+	<key>level2</key>
+	<array>
+		<string>{160, 400}</string>
+		<string>{70, 320}</string>
+		<string>{71, 200}</string>
+		<string>{160, 250}</string>
+		<string>{251, 200}</string>
+		<string>{250, 320}</string>
+		<integer>1</integer>
+	</array>
+	<key>level3</key>
+	<array>
+		<string>{33, 356}</string>
+		<string>{41, 256}</string>
+		<string>{133, 152}</string>
+		<string>{258, 214}</string>
+		<string>{215, 122}</string>
+		<string>{254, 87}</string>
+		<string>{292, 224}</string>
+		<string>{289, 293}</string>
+		<string>{199, 214}</string>
+		<string>{182, 291}</string>
+		<string>{230, 294}</string>
+		<string>{231, 311}</string>
+		<string>{178, 305}</string>
+		<string>{191, 347}</string>
+		<string>{278, 372}</string>
+		<string>{272, 401}</string>
+		<string>{107, 391}</string>
+		<string>{127, 349}</string>
+		<integer>2</integer>
+	</array>
+	<key>level4</key>
+	<array>
+		<string>{65, 373}</string>
+		<string>{36, 293}</string>
+		<string>{91, 236}</string>
+		<string>{69, 180}</string>
+		<string>{132, 145}</string>
+		<string>{206, 167}</string>
+		<string>{133, 200}</string>
+		<string>{138, 265}</string>
+		<string>{102, 284}</string>
+		<string>{107, 310}</string>
+		<string>{223, 243}</string>
+		<string>{222, 203}</string>
+		<string>{193, 194}</string>
+		<string>{217, 177}</string>
+		<string>{214, 151}</string>
+		<string>{229, 120}</string>
+		<string>{255, 114}</string>
+		<string>{272, 145}</string>
+		<string>{268, 193}</string>
+		<string>{244, 237}</string>
+		<string>{268, 272}</string>
+		<string>{271, 272}</string>
+		<string>{279, 300}</string>
+		<string>{269, 334}</string>
+		<string>{216, 334}</string>
+		<string>{175, 332}</string>
+		<string>{156, 369}</string>
+		<string>{86, 396}</string>
+		<integer>2</integer>
+	</array>
+	<key>level5</key>
+	<array>
+		<string>{64, 332}</string>
+		<string>{40, 294}</string>
+		<string>{37, 226}</string>
+		<string>{90, 171}</string>
+		<string>{148, 142}</string>
+		<string>{98, 90}</string>
+		<string>{189, 89}</string>
+		<string>{148, 163}</string>
+		<string>{85, 199}</string>
+		<string>{56, 250}</string>
+		<string>{126, 256}</string>
+		<string>{169, 223}</string>
+		<string>{252, 170}</string>
+		<string>{208, 120}</string>
+		<string>{249, 79}</string>
+		<string>{283, 158}</string>
+		<string>{250, 212}</string>
+		<string>{259, 292}</string>
+		<string>{265, 353}</string>
+		<string>{179, 370}</string>
+		<string>{97, 380}</string>
+		<string>{177, 311}</string>
+		<string>{213, 284}</string>
+		<string>{215, 263}</string>
+		<string>{173, 270}</string>
+		<string>{143, 308}</string>
+		<string>{85, 354}</string>
+		<integer>2</integer>
+	</array>
+	<key>level6</key>
+	<array>
+		<string>{53, 321}</string>
+		<string>{35, 296}</string>
+		<string>{35, 267}</string>
+		<string>{44, 232}</string>
+		<string>{72, 214}</string>
+		<string>{87, 229}</string>
+		<string>{68, 248}</string>
+		<string>{56, 264}</string>
+		<string>{59, 284}</string>
+		<string>{83, 290}</string>
+		<string>{102, 257}</string>
+		<string>{115, 226}</string>
+		<string>{117, 199}</string>
+		<string>{118, 185}</string>
+		<string>{106, 153}</string>
+		<string>{91, 130}</string>
+		<string>{72, 95}</string>
+		<string>{94, 81}</string>
+		<string>{109, 77}</string>
+		<string>{117, 91}</string>
+		<string>{133, 122}</string>
+		<string>{141, 150}</string>
+		<string>{145, 179}</string>
+		<string>{147, 203}</string>
+		<string>{166, 164}</string>
+		<string>{179, 141}</string>
+		<string>{189, 112}</string>
+		<string>{205, 84}</string>
+		<string>{225, 80}</string>
+		<string>{233, 100}</string>
+		<string>{233, 131}</string>
+		<string>{217, 161}</string>
+		<string>{200, 178}</string>
+		<string>{187, 198}</string>
+		<string>{179, 217}</string>
+		<string>{170, 255}</string>
+		<string>{164, 282}</string>
+		<string>{165, 290}</string>
+		<string>{213, 313}</string>
+		<string>{231, 325}</string>
+		<string>{235, 341}</string>
+		<string>{240, 369}</string>
+		<string>{239, 397}</string>
+		<string>{216, 398}</string>
+		<string>{197, 393}</string>
+		<string>{201, 370}</string>
+		<string>{201, 344}</string>
+		<string>{187, 324}</string>
+		<string>{165, 314}</string>
+		<string>{154, 317}</string>
+		<string>{142, 333}</string>
+		<string>{127, 333}</string>
+		<string>{117, 345}</string>
+		<string>{130, 361}</string>
+		<string>{130, 379}</string>
+		<string>{113, 391}</string>
+		<string>{91, 393}</string>
+		<string>{74, 380}</string>
+		<string>{65, 368}</string>
+		<string>{81, 351}</string>
+		<string>{92, 341}</string>
+		<string>{95, 332}</string>
+		<integer>3</integer>
+	</array>
+	<key>level7</key>
+	<array>
+		<string>{55, 389}</string>
+		<string>{34, 323}</string>
+		<string>{54, 265}</string>
+		<string>{120, 218}</string>
+		<string>{172, 182}</string>
+		<string>{222, 203}</string>
+		<string>{246, 261}</string>
+		<string>{232, 324}</string>
+		<string>{166, 343}</string>
+		<string>{98, 310}</string>
+		<string>{74, 342}</string>
+		<string>{146, 395}</string>
+		<string>{206, 387}</string>
+		<string>{257, 376}</string>
+		<string>{258, 391}</string>
+		<string>{196, 410}</string>
+		<string>{143, 412}</string>
+		<string>{104, 413}</string>
+		<string>{75, 395}</string>
+		<string>{62, 386}</string>
+		<integer>2</integer>
+	</array>
+</dict>
+</plist>
