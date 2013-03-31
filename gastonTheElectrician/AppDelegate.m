@@ -17,6 +17,16 @@
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
 {
+    [Parse setApplicationId:@"3dISiqjSDZzQEYEIRiUCC9Wm84lYcuAB1vIegXFu" clientKey:@"zmSPLsvOyQiW6pyc9BGvq4oFaC0M1HPBqs58fXPj"];
+    
+    if([[NJSettings sharedSettings] ads])
+    {
+        [RevMobAds startSessionWithAppID:@"50bfcb75eed7d6100000000f"];
+        
+        [[RevMobAds session] showFullscreen];
+        
+    }
+
 	// Create the main window
 	window_ = [[UIWindow alloc] initWithFrame:[[UIScreen mainScreen] bounds]];
 
@@ -35,7 +45,7 @@
 	director_.wantsFullScreenLayout = YES;
 
 	// Display FSP and SPF
-	[director_ setDisplayStats:YES];
+	[director_ setDisplayStats:NO];
 
 	// set FPS at 60
 	[director_ setAnimationInterval:1.0/60];

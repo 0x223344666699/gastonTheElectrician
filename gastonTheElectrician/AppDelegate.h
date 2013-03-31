@@ -9,7 +9,9 @@
 #import <UIKit/UIKit.h>
 #import "NJSettings.h"
 #import <FacebookSDK/FacebookSDK.h>
+#import <GameKit/GameKit.h>
 #import "cocos2d.h"
+#define SYSTEM_VERSION_GREATER_THAN_OR_EQUAL_TO(v)  ([[[UIDevice currentDevice] systemVersion] compare:v options:NSNumericSearch] != NSOrderedAscending)
 
 @interface AppController : NSObject <UIApplicationDelegate, CCDirectorDelegate>
 {

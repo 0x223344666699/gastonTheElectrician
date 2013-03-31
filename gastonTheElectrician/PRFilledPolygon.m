@@ -162,12 +162,5 @@
 	return texture;
 }
 		 
--(void) dealloc {
-	free(areaTrianglePoints);
-	free(textureCoordinates);
-    texture = nil;
-    triangulator = nil;
-
-}
 
 @end

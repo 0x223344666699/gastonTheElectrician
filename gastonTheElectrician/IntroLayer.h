@@ -18,12 +18,18 @@
 #import <Parse/Parse.h>
 #import "SimpleAudioEngine.h"
 #import "CocosDenshion.h"
-#import "NJLevelCreator.h"
-#import "NJLevelReader.h"
+//#import "NJLevelCreator.h"
+//#import "NJLevelReader.h"
 #import <RevMobAds/RevMobAds.h>
 
-@interface IntroLayer : CCLayer <MFMailComposeViewControllerDelegate, GKAchievementViewControllerDelegate, RevMobAdsDelegate >{
-    
+@interface IntroLayer : CCLayer <MFMailComposeViewControllerDelegate, GKAchievementViewControllerDelegate, RevMobAdsDelegate >{CCMenu *menu;
+    CCMenu *shareMenu;
+    CCMenu* settingsMenu;
+    CCSprite *tapadera;
+    pgeScrollLayer* scroll;
+    howToPlayScrollLayer* HTPscroll;
+    UIViewController* emailController;
 }
-
++(CCScene *) scene;
+-(void)facebook;
 @end
